@@ -1,0 +1,15 @@
+{
+    "name": "rjay/mvc-php",
+    "authors": [
+        {
+            "name": "rajansharma3097",
+            "email": "sharma.rajan3097@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\" : "./"
+        }
+    },
+    "require": {}
+}
